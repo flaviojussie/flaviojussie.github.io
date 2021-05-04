@@ -39,8 +39,8 @@ comments: 1
 Add tags and categories to your posts in the front matter as well. Multiple tags/categories can be assigned but need to be separated by spaces.
 
 ```yaml
-categories: default default2
-tags: test test2
+categories: default default2 meet
+tags: google-meet test2
 ```
 
 ## Contributing
